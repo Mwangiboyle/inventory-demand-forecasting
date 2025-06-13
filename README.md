@@ -77,17 +77,6 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-**Sample **``**:**
-
-```text
-pandas
-numpy
-matplotlib
-seaborn
-prophet
-jupyter
-```
-
 ---
 
 ## 📈 Sample Output
