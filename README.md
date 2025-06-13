@@ -60,7 +60,7 @@ Effective inventory management relies heavily on accurate demand forecasting. Th
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/inventory-demand-forecasting.git
+git clone https://github.com/Mwangiboyle/inventory-demand-forecasting.git
 cd inventory-demand-forecasting
 ```
 
@@ -98,8 +98,8 @@ The notebook generates forecast plots showing projected demand for future period
 
 ## 📝 Author
 
-- Your Name (replace this with your name)
-- [Your LinkedIn or GitHub profile link]
+- Mwangi Waweru
+- [Linkedin](https://www.linkedin.com/in/josephmwangiboyle/)
 
 ---
 
